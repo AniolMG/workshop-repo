@@ -1,6 +1,6 @@
 {
   "family": "webapp-devops-workshop",
-  "taskRoleArn": "arn:aws:iam::819397556882:role/devops-cluster-TaskRole-0KygofLPN8Q2",
+  "taskRoleArn": "arn:aws:iam::819397556882:role/devops-cluster-TaskRole-JeS72bGmPH1j",
   "executionRoleArn": "arn:aws:iam::819397556882:role/ECSTaskExecutionRole",
   "networkMode": "awsvpc",
   "containerDefinitions": [
